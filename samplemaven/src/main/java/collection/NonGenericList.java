@@ -22,7 +22,7 @@ public class NonGenericList {
 		System.out.println(l1);
 		System.out.println(l1.contains('A'));
 		System.out.println(l1.isEmpty());
-		System.out.println(l1.size()gyy);
+		System.out.println(l1.size());
 		
 	}
 
